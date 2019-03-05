@@ -1,0 +1,16 @@
+body{
+    background-color: lightskyblue;
+}
+
+table, th, td{
+    border: 2px solid black;
+}
+
+.title{
+    font-style: italic;
+}
+
+table{
+    text-align: center;
+    margin: auto;
+}
