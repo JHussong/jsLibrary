@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+
+header{
+    background-image: url("coding2.jpg");
+    height: 300px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0;
+    top: -21px;
+    -moz-box-shadow:inset 0px 0px 6px 6px rgba(255,255,255,1);
+    -webkit-box-shadow:inset 0px 0px 6px 6px rgba(255,255,255,1);
+    box-shadow:inset 0px 0px 6px 6px rgba(255,255,255,1);
+    -webkit-filter: grayscale(90%); 
+    filter: grayscale(90%)
+    opacity(0.5);
+}
+
+#header-text{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 6em;
+}
